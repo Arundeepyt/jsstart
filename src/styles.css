@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #da0f56;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  background-color: #1a0832;
+  color: #2aff05;
+  padding: 20px 40px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
