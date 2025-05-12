@@ -6,7 +6,7 @@ function App() {
     <div className="app-container">
       <div className="footer">
         <p>Created by arundeep</p>
-        <p>Copyright 2025</p>
+        <p>@Copyright 2025</p>
       </div>
     </div>
   );
